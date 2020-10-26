@@ -4,7 +4,7 @@
   <ArcGISOnlineURL>https://www.arcgis.com/sharing/rest</ArcGISOnlineURL>
   <WebmapURL>http://arcgisruntime.maps.arcgis.com/home/item.html?id=16f1b8ba37b44dc3884afc8d5f454dd2</WebmapURL>
   <DefaultZoomScale>5000</DefaultZoomScale>
-  <AppClientID>h3em0ifYNGfz3uHX</AppClientID>
+  <AppClientID>VtO6s1J3nL36qUPn</AppClientID>
   <RedirectURL>data-collection://auth</RedirectURL>
   
   <!-- The settings below are speficic to the Tree Survey dataset and workflow. Do not modify -->
